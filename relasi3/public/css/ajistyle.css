@@ -1,0 +1,38 @@
+.p-admin{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 30px;
+    color: black;
+}
+.p1-admin{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    color: black;
+}
+.p2-admin{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    color: black;
+}
+.img-dashboard{
+    width: 200px;
+    height: 300px;
+}
+.bg-login{
+  background-image: url(./css/login.jpeg);
+}
+.ch1-login{
+    background-color: red;
+}
+#p1-login{
+    font-size: 40px;
+}
+
+.cd-login{
+    margin-top: 50px;
+}
