@@ -30,10 +30,10 @@
                     <h2>Tabel Data Karyawan Aji Corp</h2>
                 </div>
                 <a href="{{route('karyawan.create')}}"><button class="btn btn-success">Tambah Data Karyawan</button></a>
-                <table class="table table-striped">
+                <table class="table table-striped" id="table_id">
                     <thead>
                         <tr>
-                          <th>No</th>
+                          <th>ID</th>
                           <th>Nomor Induk Karyawan</th>
                           <th>Nama Karyawan</th>
                           <th>Alamat Karyawan</th>

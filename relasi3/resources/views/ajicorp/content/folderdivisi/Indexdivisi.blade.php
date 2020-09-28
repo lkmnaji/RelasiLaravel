@@ -30,10 +30,10 @@
                     <h2>Tabel Data Divisi Aji Corp</h2>
                 </div>
                 <a href="{{route('divisi.create')}}"><button class="btn btn-success">Tambah Divisi</button></a>
-                <table class="table table-striped">
+                <table class="table table-striped display" id="table_id">
                     <thead>
                         <tr>
-                          <th>No</th>
+                          <th>ID</th>
                           <th>Nama Divisi</th>
                           <th>Lokasi Divisi</th>
                           {{-- <th>Action</th> --}}
